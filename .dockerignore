@@ -1,0 +1,36 @@
+# Git directories
+.git/
+.gitignore
+
+# Dockerfile & docker-compose
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Node modules
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Logs
+*.log
+
+# virtual environment
+venv/
+ENV/
+env/
+.env
+
+# IDE and editors
+.idea/
+.vscode/
+*.swp
+*~
+
+# ignore certain nginx config directories
+data/certbot/conf
+public/
