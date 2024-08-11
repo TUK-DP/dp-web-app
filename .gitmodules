@@ -1,3 +1,5 @@
 [submodule "frontend-v2"]
 	path = frontend-v2
 	url = https://github.com/TUK-DP/frontend-v2
+	branch = main
+
